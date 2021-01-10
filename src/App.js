@@ -80,9 +80,7 @@ class App extends Component {
                   legend:{
                       display:true,
                       position:'right'
-                  },
-                  maintainAspectRatio: true,
-                  redraw: true
+                  }
               }}
           />
       </div>
